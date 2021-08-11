@@ -1,0 +1,44 @@
+ * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+} 
+
+body{
+
+    background-color: whitesmoke;
+    color: #1F1F1F;
+    min-height: 200vh;
+    font-family: Noto+Sans;
+    margin-bottom: 20px;
+
+}
+
+header {
+display: block;
+color: #3D3D3D;
+margin-top: 20px;
+margin-left: 100px;
+text-align: center;
+background-image: url(blob:https://alqudscollege-my.sharepoint.com/5ea1defe-22ca-4a39-91f4-a3c6ca644996);
+
+}
+
+main {
+
+    height: 50px;
+    width: 90%;
+}
+
+button{
+    background-color: black;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    font-size: 90%;
+    text-align: center;
+}
+
+
+
+
